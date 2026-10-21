@@ -12,6 +12,7 @@ Unity와 C#을 중심으로 다양한 게임 시스템을 구현하고 있고 C+
 - 게임 시스템 설계 및 구현에 관심이 있습니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maihyun0328@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1001628958359552012)
 
 ## Tech Stack
 

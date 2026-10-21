@@ -29,7 +29,7 @@ Unity와 C#을 중심으로 다양한 게임 시스템을 구현하고 있고 C+
 
 [![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNy42IDEuMiA4LjEgMTAuMiAzLjYgNi44IDEgOC44IDYgMTIgMSAxNS4yIDMuNiAxNy4yIDguMSAxMy44IDE3LjYgMjIuOCAyMyAyMC4yIDIzIDMuOFpNMTcuNiA3LjEgMTcuNiAxNi45IDExLjMgMTJaIi8+PC9zdmc+)](https://code.visualstudio.com)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNy42IDEuMiA4LjEgMTAuMiAzLjYgNi44IDEgOC44IDYgMTIgMSAxNS4yIDMuNiAxNy4yIDguMSAxMy44IDE3LjYgMjIuOCAyMyAyMC4yIDIzIDMuOFpNMTcuNiA3LjEgMTcuNiAxNi45IDExLjMgMTJaIi8+PC9zdmc+)](https://code.visualstudio.com)
 
 ## Projects
 

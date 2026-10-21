@@ -8,7 +8,7 @@ Unity와 C#을 중심으로 다양한 게임 시스템을 구현하고 있고 C+
 
 Game Developer 지망
 
-Unity / C# / C++ / Unreal 학습중
+Unity / C# / C++ / Unreal Engine 학습중
 
 게임 시스템 설계 및 구현에 관심
 
